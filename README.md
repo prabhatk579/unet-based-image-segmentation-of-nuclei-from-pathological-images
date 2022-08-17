@@ -43,5 +43,6 @@ _Fig: The output of the model on a testing image_
 
 _Fig: Model output on a dark image_
 
+<img width="360" alt="image" src="https://user-images.githubusercontent.com/54438860/185110101-210ccbf4-acdc-4c36-9d0d-5d46544a3422.png">
 
-
+_Fig: Performance metrics of our model_
