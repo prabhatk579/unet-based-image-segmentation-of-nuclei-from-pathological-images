@@ -9,3 +9,4 @@ U-Net technique is used for segmentation of the images. The images belong majorl
 **The dataset used is [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) from kaggle.**
 
 This dataset comprises a vast number of nucleus pictures that have been segmented. The pictures were taken under various circumstances and differences in cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is intended to test an algorithm’s generalization across these differences.
+
